@@ -4,7 +4,7 @@ A full-stack recruitment automation platform with job posting, resume screening,
 
 ---
 
-## 📁 Project Structure--
+## 📁 Project Structure-
 
 ```
 recruitment-system/
